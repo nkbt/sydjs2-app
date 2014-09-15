@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "sydjs2-module": "git://github.com/nkbt/sydjs2-module"
+  }
+}
